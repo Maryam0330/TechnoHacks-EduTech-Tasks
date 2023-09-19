@@ -6,8 +6,8 @@ In this repository, I have uploaded tasks which were assigned to me by TechnoHac
    various libraries such as NumPy, Pandas and SciPy to complete this task.
    
    Identified missing values from the dataset using  functions such as `isnull()`, `isnull().sum()`. Handled missing values by filling 
-   them using the `mean()` and `mode()` of the specific column. Also dropped the column in which many missing values were present. 
-   Verified the cleaned DataFrame to check if there are any remaining missing values in the DataFrame.
+   them using the `fillna()` function. Also used `mean()` and `mode()` functions to handle missing values for specific column. Also dropped the column in which many missing values were 
+   present. Verified the cleaned DataFrame to check if there are any remaining missing values in the DataFrame.
    
    Used statistical Methods for Outlier Detection : IQR (Interquartile Range) Method to find outliers by identifying data points. 
    Calculated IQR, detected and removed outliers for specific columns.
