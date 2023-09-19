@@ -1,5 +1,5 @@
 # TechnoHacks-EduTech-Tasks
-In this repository, I have uploaded tasks which were assigned to by Technohacks EduTech during Data Analytics Internship.
+In this repository, I have uploaded tasks which were assigned to me by Technohacks EduTech during Data Analytics Internship.
 
 1. [Task 1 : **Data Cleaning** -]()
    Cleaned a dataset by removing missing values and outliers. I have used the Titanic dataset from Kaggle. I have used Python 
