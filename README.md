@@ -3,7 +3,7 @@ In this repository, I have uploaded tasks which were assigned to me by TechnoHac
 
 1. [Task 1 : **Data Cleaning** -](https://github.com/Maryam0330/TechnoHacks-EduTech-Tasks/blob/main/Task%201/data_cleaning.ipynb)
    Cleaned a dataset by removing missing values and outliers. I have used the Titanic dataset from Kaggle. I have used Python 
-   various libraries such as NumPy, Pandas, SciPy to complete this task.
+   various libraries such as NumPy, Pandas and SciPy to complete this task.
    
    Identified missing values from the dataset using  functions such as `isnull()`, `isnull().sum()`. Handled missing values by filling 
    them using the `mean()` and `mode()` of the specific column. Also dropped the column in which many missing values were present. 
