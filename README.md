@@ -6,7 +6,7 @@ In this repository, I have uploaded tasks which were assigned to me by TechnoHac
    various libraries such as NumPy, Pandas and SciPy to complete this task.
    
    Identified missing values from the dataset using  functions such as `isnull()`, `isnull().sum()`. Handled missing values by filling 
-   them using the `fillna()` function. Also used `mean()` and `mode()` functions to handle missing values for specific column. Also dropped the column in which many missing values were 
+   them using the `fillna()` function. Also used `mean()` and `mode()` functions to handle missing values for specific column. Dropped the column in which many missing values were 
    present. Verified the cleaned DataFrame to check if there are any remaining missing values in the DataFrame.
    
    Used statistical Methods for Outlier Detection : IQR (Interquartile Range) Method to find outliers by identifying data points. 
@@ -17,7 +17,7 @@ In this repository, I have uploaded tasks which were assigned to me by TechnoHac
    dataset from Kaggle. I have used Python libraries such as NumPy and Pandas to complete this task. 
 
    Calculated the mean (average) using Pandas `mean()` function, median (middle value) using Pandas `median()` function and standard 
-   deviation (dispersion in a set of data points) of the numeric  columns using Pandas' `mean()` function. Calculated the mode (most 
+   deviation (dispersion in a set of data points) of the numeric  columns using Pandas `std()` function. Calculated the mode (most 
    frequent value) of the numeric columns using SciPy's `mode()` function.
 
 3. [Task 3 : **Remove Duplicates** -](https://github.com/Maryam0330/TechnoHacks-EduTech-Tasks/blob/main/Task%203/remove_duplicates.ipynb)
