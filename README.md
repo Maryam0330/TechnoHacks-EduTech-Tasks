@@ -12,7 +12,7 @@ In this repository, I have uploaded tasks which were assigned to me by Technohac
    Used statistical Methods for Outlier Detection : IQR (Interquartile Range) Method to find outliers by identifying data points. 
    Calculated IQR, detected and removed outliers for specific columns.
 
-2. [Task 2 : **Summary Statistics**-]()
+2. [Task 2 : **Summary Statistics**-](https://github.com/Maryam0330/TechnoHacks-EduTech-Tasks/blob/main/Task%202/summary_statistics.ipynb)
    Calculated summary statistics (mean, median, mode, standard deviation) for numeric columns in a dataset. I have used the Titanic 
    dataset from Kaggle. I have used Python libraries such as NumPy and Pandas to complete this task. 
 
