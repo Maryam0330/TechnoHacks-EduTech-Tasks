@@ -20,7 +20,7 @@ In this repository, I have uploaded tasks which were assigned to me by Technohac
    deviation (dispersion in a set of data points) of the numeric  columns using Pandas' `mean()` function. Calculated the mode (most 
    frequent value) of the numeric columns using SciPy's `mode()` function.
 
-3. [Task 3 : **Remove Duplicates**-]()
+3. [Task 3 : **Remove Duplicates**-](https://github.com/Maryam0330/TechnoHacks-EduTech-Tasks/blob/main/Task%203/remove_duplicates.ipynb)
    Identified and removed duplicate values in a dataset. I have used the Iris dataset from Kaggle. I  have used Python libraries 
    such as NumPy and Pandas to complete this task. 
 
